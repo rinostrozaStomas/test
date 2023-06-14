@@ -29,3 +29,7 @@ Route::get('/crud/new', function () {
 Route::get('/crud/edit/{id}', function () {
     return view('crud.edit');
 });
+
+Route::get('/activate/{id}', function () {
+    return view('crud.activate');
+});
