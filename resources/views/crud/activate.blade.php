@@ -34,7 +34,7 @@
 
 
 @section('content')
-    <h4> Editar Tarea</h4>
+    <h4> Activar Tarea</h4>
     <form id="form-edit">
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Tiulo</label>
